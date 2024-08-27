@@ -1,0 +1,17 @@
+{
+  "name": "kafka-producer",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0"
+  }
+}
